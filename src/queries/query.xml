@@ -1,6 +1,1 @@
-<query>
-	<executeACL>anonymous</executeACL>
-	<condition><![CDATA[ x!="y" ]]></condition>
-	<returnedFields><field>*</field></returnedFields>
-	<count>true</count>
-</query>
+<query><executeACL>anonymous</executeACL><condition><![CDATA[ w!="r" ]]></condition><count>true</count></query>
